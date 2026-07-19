@@ -1,6 +1,9 @@
 # Beauty-Analytics-Powerbi-Dashboard
 Power BI + Power Query + DAX project segmenting 8,000+ Sephora products into Prestige/Niche category to analyze pricing and rating patterns across beauty categories.
+
 Sephora Beauty Category Dashboard
+
+Prestige vs. Niche/Mass brand performance, built in Power BI
 
 What this is
 
